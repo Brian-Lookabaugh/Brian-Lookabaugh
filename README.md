@@ -4,11 +4,12 @@ I am a PhD Candidate in political science whose current dissertation work and re
 
 **Working Projects**
 
-:🇺🇳: [Do UN Peacekeeping Operations Lead to Peace?](https://github.com/Brian-Lookabaugh/Causal-Impact-of-PKOs-on-Peace)
+- 🇺🇳 [Do UN Peacekeeping Operations Lead to Peace?](https://github.com/Brian-Lookabaugh/Causal-Impact-of-PKOs-on-Peace)
 
 **Blog Posts**
 
-[Executing SQL in R](https://github.com/Brian-Lookabaugh/Executing-SQL-in-R)
+- [Executing SQL in R](https://github.com/Brian-Lookabaugh/Executing-SQL-in-R)
+- 
 <!--
 **Brian-Lookabaugh/Brian-Lookabaugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
