@@ -11,16 +11,26 @@ I am a PhD Candidate in political science whose current dissertation work and re
 - [Executing SQL in R](https://github.com/Brian-Lookabaugh/Executing-SQL-in-R)
 
 <!--
-**Brian-Lookabaugh/Brian-Lookabaugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
+I am a PhD Candidate in political science whose current dissertation work and research interests focus on making causal inferences from peacebuilding programs, such as foreign aid packages, mediated peace agreements, and peacekeeping operations. My GitHub account details my progress on these projects along with other side projects and a collection of writings (some are still in progress) on a variety of topics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Completed Projects**
+
+- ☮️ [Do UN Peacekeeping Operations Lead to Peace?](https://github.com/Brian-Lookabaugh/Causal-Impact-of-PKOs-on-Peace)
+- 🕊️ [Can Foreign Aid Buy Peace?](https://github.com/Brian-Lookabaugh/Causal-Impact-of-Foreign-Aid-on-Peace)
+- 💰 [Can FDI Buy Peace?]()
+
+**Working Projects**
+
+- [4th Research Project]()
+
+**Blog Posts**
+
+- [Executing SQL in R](https://github.com/Brian-Lookabaugh/Executing-SQL-in-R)
+- [SQL in Practice](https://github.com/Brian-Lookabaugh/SQL-in-Practice)
+- [Data Manipulation With dplyr, pandas, and polars](https://github.com/Brian-Lookabaugh/Data-Manipulation-in-R-and-Python)
+- [Data Visualization in R](https://github.com/Brian-Lookabaugh/Data-Vizualization-in-R)
+- [Causal Inference for the Confused Social Scientist](https://github.com/Brian-Lookabaugh/Causal-Inference-for-Social-Scientists)
+- [Machine Learning for the Confused Social Scientist](https://github.com/Brian-Lookabaugh/Machine-Learning-for-Social-Scientists)
 -->
