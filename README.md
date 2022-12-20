@@ -5,7 +5,6 @@ I am a PhD Candidate in political science whose current dissertation work and re
 **Working Projects**
 
 - ☮️ [Do UN Peacekeeping Operations Lead to Peace?](https://github.com/Brian-Lookabaugh/Causal-Impact-of-PKOs-on-Peace)
-- [Practical SQL Syntax](https://github.com/Brian-Lookabaugh/Practical-Syntax-in-SQL)
 
 **Blog Posts**
 
@@ -29,7 +28,6 @@ I am a PhD Candidate in political science whose current dissertation work and re
 **Blog Posts**
 
 - [Executing SQL in R](https://github.com/Brian-Lookabaugh/Executing-SQL-in-R)
-- [SQL in Practice](https://github.com/Brian-Lookabaugh/SQL-in-Practice)
 - [Data Manipulation With dplyr, pandas, and polars](https://github.com/Brian-Lookabaugh/Data-Manipulation-in-R-and-Python)
 - [Data Visualization in R](https://github.com/Brian-Lookabaugh/Data-Vizualization-in-R)
 - [Causal Inference for the Confused Social Scientist](https://github.com/Brian-Lookabaugh/Causal-Inference-for-Social-Scientists)
